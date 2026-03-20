@@ -1,0 +1,201 @@
+id,name,age,city,income
+1,Ana Silva,22,São Paulo,2500
+2,Bruno Costa,35,Rio de Janeiro,5000
+3,Carlos Souza,55,Belo Horizonte,12000
+4,Diana Lima,28,Curitiba,7000
+5,Eduardo Santos,45,Salvador,8000
+6,Fernanda Oliveira,60,Brasília,3500
+7,Gabriel Pereira,19,Recife,1500
+8,Helena Rocha,33,Porto Alegre,4500
+9,Igor Mendes,52,Fortaleza,15000
+10,Julia Ferreira,25,Manaus,2000
+11,Kevin Almeida,40,Goiânia,9500
+12,Laura Ribeiro,27,Florianópolis,6500
+13,Marcos Cardoso,65,Vitória,8000
+14,Natalia Dias,31,Campinas,3000
+15,Oscar Martins,48,Belém,10000
+16,Patricia Nunes,23,São Luís,900
+17,Rafael Gomes,58,Natal,20000
+18,Sofia Barbosa,29,Maceió,5500
+19,Thiago Araujo,42,Aracaju,7500
+20,Vanessa Castro,20,Teresina,1200
+21,Lucas Monteiro,37,Cuiabá,6000
+22,Camila Teixeira,26,João Pessoa,2800
+23,Ricardo Fernandes,53,Londrina,11000
+24,Beatriz Correia,44,Joinville,9000
+25,Felipe Nascimento,18,Santos,800
+26,Mariana Lopes,61,Ribeirão Preto,4200
+27,Andre Vieira,30,Niterói,3500
+28,Isabela Moreira,39,São Bernardo,7800
+29,Pedro Henrique,50,Osasco,10500
+30,Leticia Carvalho,24,Uberlândia,2200
+31,Gustavo Ramos,46,Sorocaba,8500
+32,Amanda Freitas,21,Guarulhos,1800
+33,Rodrigo Pinto,56,Campina Grande,13000
+34,Carolina Azevedo,34,Bauru,5200
+35,Daniel Machado,67,Piracicaba,7000
+36,Juliana Castro,29,Juiz de Fora,6200
+37,Vinicius Lima,41,Feira de Santana,4800
+38,Gabriela Santos,23,Maringá,3200
+39,Matheus Oliveira,54,Blumenau,16000
+40,Larissa Souza,32,Pelotas,3800
+41,Henrique Batista,38,Vila Velha,7200
+42,Fernanda Reis,27,Cascavel,5800
+43,Leonardo Costa,63,Canoas,9200
+44,Bianca Martins,22,Mogi das Cruzes,1400
+45,Caio Duarte,47,Betim,8800
+46,Renata Figueiredo,36,Caxias do Sul,6500
+47,Tiago Barros,51,Carapicuíba,14000
+48,Aline Nogueira,20,Olinda,950
+49,Marcelo Cunha,59,Anápolis,18000
+50,Priscila Mendes,43,Jundiaí,7600
+51,Diego Tavares,25,São José dos Campos,2600
+52,Sabrina Rocha,33,Contagem,4100
+53,Alexandre Andrade,57,Volta Redonda,11500
+54,Tatiana Pereira,28,Franca,6800
+55,Roberto Campos,49,Paulista,9800
+56,Monica Guimarães,62,Montes Claros,5500
+57,Fabio Rezende,31,Taubaté,3200
+58,Raquel Cardoso,26,Petrolina,2400
+59,Jorge Santana,55,São José do Rio Preto,13500
+60,Viviane Moura,40,Limeira,8200
+61,Paulo Siqueira,19,Caruaru,1100
+62,Elisa Braga,45,Chapecó,7400
+63,Anderson Melo,34,Imperatriz,5000
+64,Natasha Farias,52,Itajaí,12500
+65,Leandro Borges,37,Macapá,6300
+66,Claudia Fontes,24,Boa Vista,1900
+67,Samuel Paixão,66,Palmas,8500
+68,Adriana Coelho,29,Rio Branco,5700
+69,Fernando Gil,42,Porto Velho,7100
+70,Cristina Vasconcelos,58,Aracaju,17000
+71,Bruno Teles,21,Teresina,1600
+72,Marina Esteves,48,Manaus,9400
+73,Luciano Rangel,35,Belém,5800
+74,Simone Aguiar,53,Curitiba,14500
+75,Raphael Dantas,30,Florianópolis,3400
+76,Vanessa Brito,27,Porto Alegre,6100
+77,Gustavo Pires,64,Recife,7800
+78,Juliana Magalhães,39,Fortaleza,8600
+79,Ricardo Lacerda,22,Salvador,2100
+80,Beatriz Navarro,46,Belo Horizonte,9100
+81,Thiago Medeiros,56,São Paulo,19000
+82,Camila Viana,32,Rio de Janeiro,4300
+83,Felipe Amorim,18,Brasília,750
+84,Mariana Sampaio,41,Goiânia,7900
+85,Andre Queiroz,50,Campinas,10200
+86,Isabela Torres,23,Vitória,2900
+87,Pedro Dias,44,Natal,8400
+88,Leticia Pacheco,61,Santos,6000
+89,Daniel Flores,36,Maringá,5400
+90,Amanda Luz,29,Joinville,6700
+91,Rodrigo Xavier,53,Londrina,15500
+92,Carolina Assis,25,Ribeirão Preto,2300
+93,Vinicius Moraes,47,Niterói,9600
+94,Gabriela Herrera,34,Osasco,5100
+95,Matheus Franco,68,Sorocaba,8200
+96,Larissa Domingues,20,Guarulhos,1300
+97,Henrique Sá,38,Uberlândia,7500
+98,Fernanda Trindade,51,Campina Grande,11800
+99,Leonardo Marques,27,Bauru,4000
+100,Bianca Arruda,43,Piracicaba,8100
+101,Caio Monteiro,22,Juiz de Fora,2700
+102,Renata Vasques,57,Feira de Santana,13200
+103,Tiago Silveira,33,Blumenau,4600
+104,Aline Parente,26,Pelotas,3100
+105,Marcelo Fonseca,62,Vila Velha,9500
+106,Priscila Cavalcanti,40,Cascavel,7300
+107,Diego Ribas,19,Mogi das Cruzes,1000
+108,Sabrina Toledo,45,Caxias do Sul,8700
+109,Alexandre Brum,54,Betim,16500
+110,Tatiana Correia,31,Carapicuíba,3600
+111,Roberto Guedes,48,Olinda,9900
+112,Monica Paiva,28,Anápolis,5900
+113,Fabio Leal,65,Jundiaí,7200
+114,Raquel Muniz,37,São José dos Campos,6400
+115,Jorge Bastos,23,Contagem,2500
+116,Viviane Caldas,55,Volta Redonda,12200
+117,Paulo Neves,42,Franca,7700
+118,Elisa Damasceno,20,Paulista,1500
+119,Anderson Serra,59,Montes Claros,18500
+120,Natasha Coutinho,34,Taubaté,5300
+121,Leandro Alves,46,Petrolina,8900
+122,Claudia Rios,52,São José do Rio Preto,14200
+123,Samuel Cruz,30,Limeira,3300
+124,Adriana Lemos,27,Caruaru,4700
+125,Fernando Dutra,63,Chapecó,10800
+126,Cristina Amaral,38,Imperatriz,6600
+127,Bruno Proença,21,Itajaí,1700
+128,Marina Valente,49,Macapá,9700
+129,Luciano Gomes,35,Boa Vista,5600
+130,Simone Bentes,24,Palmas,2000
+131,Raphael Couto,56,Rio Branco,11200
+132,Lucas Paes,41,Porto Velho,7400
+133,Camila Dourado,29,São Paulo,6300
+134,Felipe Regis,53,Rio de Janeiro,15800
+135,Mariana Barreto,33,Belo Horizonte,4400
+136,Andre Vargas,18,Curitiba,650
+137,Isabela Furtado,44,Porto Alegre,8300
+138,Pedro Senna,60,Recife,6800
+139,Leticia Rabelo,36,Fortaleza,5700
+140,Daniel Alencar,25,Salvador,2800
+141,Amanda Serpa,51,Brasília,13800
+142,Rodrigo Campos,47,Goiânia,9300
+143,Carolina Ferraz,22,Campinas,1900
+144,Vinicius Souto,39,Manaus,7600
+145,Gabriela Motta,54,Vitória,16200
+146,Matheus Rangel,32,Natal,4200
+147,Larissa Pimentel,28,Santos,6000
+148,Henrique Bello,66,Maringá,8100
+149,Fernanda Iglesias,43,Joinville,7800
+150,Leonardo Duarte,20,Londrina,1100
+151,Bianca Salgado,37,Ribeirão Preto,6200
+152,Caio Espíndola,58,Niterói,19500
+153,Renata Simões,26,Osasco,3000
+154,Tiago Moreira,45,Sorocaba,8600
+155,Aline Castilho,34,Guarulhos,5400
+156,Marcelo Diniz,52,Uberlândia,12800
+157,Priscila Roque,21,Campina Grande,1400
+158,Diego Fontoura,40,Bauru,7200
+159,Sabrina Menezes,29,Piracicaba,5500
+160,Alexandre Prado,63,Juiz de Fora,9800
+161,Tatiana Beltrão,48,Feira de Santana,9100
+162,Roberto Medina,23,Blumenau,2400
+163,Monica Galvão,55,Pelotas,14800
+164,Fabio Camargo,31,Vila Velha,3700
+165,Raquel Santoro,46,Cascavel,8400
+166,Jorge Linhares,19,Mogi das Cruzes,900
+167,Viviane Penna,42,Caxias do Sul,7500
+168,Paulo Britto,57,Betim,11600
+169,Elisa Montenegro,35,Carapicuíba,5800
+170,Anderson Vilela,50,Olinda,10300
+171,Natasha Resende,27,Anápolis,4500
+172,Leandro Faria,64,Jundiaí,8000
+173,Claudia Gusmão,33,São José dos Campos,4800
+174,Samuel Ribeiro,24,Contagem,2100
+175,Adriana Taveira,59,Volta Redonda,17500
+176,Fernando Soares,38,Franca,6900
+177,Cristina Amorim,22,Paulista,1800
+178,Bruno Valença,41,Montes Claros,7700
+179,Marina Queiroga,53,Taubaté,13500
+180,Luciano Portela,30,Petrolina,3500
+181,Simone Falcão,26,São José do Rio Preto,2600
+182,Raphael Lira,47,Limeira,9200
+183,Lucas Meireles,56,Caruaru,12000
+184,Camila Paranhos,39,Chapecó,7100
+185,Felipe Noronha,20,Imperatriz,1200
+186,Mariana Alcântara,44,Itajaí,8500
+187,Andre Bicalho,61,Macapá,6400
+188,Isabela Drummond,35,Boa Vista,5200
+189,Pedro Moraes,49,Palmas,9800
+190,Leticia Fonseca,28,Rio Branco,5600
+191,Daniel Bonfim,23,Porto Velho,2300
+192,Amanda Telles,52,São Paulo,15200
+193,Rodrigo Antunes,37,Rio de Janeiro,6500
+194,Carolina Brandt,18,Belo Horizonte,700
+195,Vinicius Teixeira,43,Curitiba,8200
+196,Gabriela Pinheiro,54,Porto Alegre,14600
+197,Matheus Cezar,32,Recife,4000
+198,Larissa Ventura,67,Fortaleza,7500
+199,Henrique Couto,25,Salvador,2900
+200,Fernanda Lacerda,46,Brasília,9500
