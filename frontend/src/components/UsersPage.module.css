@@ -1,0 +1,104 @@
+.filtersCard {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px 24px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  margin-bottom: 24px;
+}
+
+.filtersLabel {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #888;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.filtersRow {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.filterInput {
+  padding: 10px 14px;
+  width: 140px;
+}
+
+.errorMessage {
+  background: #fff5f5;
+  color: #e53e3e;
+  padding: 14px 18px;
+  border-radius: 10px;
+  border: 1px solid #fed7d7;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.totalCount {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.totalNumber {
+  font-weight: 700;
+  color: #6c5ce7;
+}
+
+.tableCard {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.th {
+  padding: 14px 16px;
+  text-align: left;
+  background-color: #f8f9fa;
+  color: #555;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid #eee;
+}
+
+.td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 14px;
+}
+
+.tr:hover {
+  background-color: #faf9ff;
+}
+
+.emptyCell {
+  padding: 48px 16px;
+  text-align: center;
+  color: #999;
+  font-size: 15px;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.pageInfo {
+  color: #666;
+  font-size: 14px;
+}
